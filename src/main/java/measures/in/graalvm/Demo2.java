@@ -26,7 +26,7 @@ public class Demo2 {
 	 * https://www.eclipse.org/openj9/docs/jit/
 	 *
 	 */
-	private static final String PATH = "C:\\workspace-JavaNew\\Java-Features\\graalvm-jmh\\src\\main\\java\\measures\\in\\graalvm\\";
+	private static final String PATH = "C:\\\\workspace-17\\\\graalvm-features\\src\\main\\java\\measures\\in\\graalvm\\";
 	private static final String FILE_PATH1 = PATH + "bigfile128MB.txt";
 	private static final String FILE_PATH2 = PATH + "small6MB.txt";
 
