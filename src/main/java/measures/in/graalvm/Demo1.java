@@ -45,7 +45,7 @@ import java.util.stream.Collectors;
 
 public class Demo1 {
 
-	private static final String DOMAINS_TXT = "C:\\workspace-17\\graalvm-features\\src\\main\\java\\measures\\in\\graalvm\\domains_list.txt";
+	private static final String DOMAINS_TXT = "C:\\\\workspace-17\\\\graalvm-features\\src\\main\\java\\measures\\in\\graalvm\\domains_list.txt";
 	private static HttpClient httpClient;
 
 	//-XX:+UnlockExperimentalVMOptions -XX:+EnableJVMCI -XX:-UseJVMCICompiler

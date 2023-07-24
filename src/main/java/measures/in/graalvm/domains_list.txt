@@ -38,7 +38,6 @@ http://www.sina.com.cn
 http://www.linkedin.com
 http://www.yahoo.co.jp
 http://www.msn.com
-http://www.vk.com
 http://www.google.de
 http://www.yandex.ru
 http://www.hao123.com

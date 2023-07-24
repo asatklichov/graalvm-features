@@ -22,6 +22,7 @@ class PolyglotOpt {
 
 class SystemPropertiesTest {
 
+	//you set properties as a startup parameter 
 	//-Dpolyglot.js.strict=true
 	public static void main(String[] args) {
 		Context polyglot = Context.newBuilder().allowExperimentalOptions(true).build();

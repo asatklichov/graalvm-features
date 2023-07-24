@@ -56,7 +56,7 @@ import org.openjdk.jmh.annotations.OutputTimeUnit;
 @Fork(1) // only on Single JVM, not like by default on 5 different JVMs
 public class MyBenchmark {
 
-	private static final String DOMAINS_TXT = "C:\\workspace-JavaNew\\Java-Features\\graalvm-jmh\\src\\main\\java\\measures\\in\\graalvm\\domains_list.txt";
+	private static final String DOMAINS_TXT = "C:\\\\workspace-17\\\\graalvm-features\\src\\main\\java\\measures\\in\\graalvm\\domains_list.txt";
 	private static HttpClient httpClient;
 
 	@Benchmark
